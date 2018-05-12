@@ -22,6 +22,8 @@ creator:
 description: Editor's preface.--pt. 1. Life of Burns [by J.F. Smith] (From the 8th
   ed. of the Ency. brit.)--pt. 2. Life of Burns [by T. Carlyle] (Review of Lockhart's
   Life of Robert Burns, 1828).
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36074#Life-of-Robert-Burns
 gutenberg_issued: '2011-05-09'
 gutenberg_type: Text
 identifiers:
