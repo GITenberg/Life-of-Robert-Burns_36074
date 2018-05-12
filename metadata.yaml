@@ -1,0 +1,41 @@
+_repo: Life-of-Robert-Burns_36074
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carlyle, Thomas
+    alias: Carlyle, T. (Thomas)
+    birthdate: 1795
+    deathdate: 1881
+    gutenberg_agent_id: '523'
+    url: http://www.gutenberg.org/2009/agents/523
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Carlyle
+  editor:
+    agent_name: Wight, O. W. (Orlando Williams)
+    alias: Wight, Orlando Williams
+    birthdate: 1824
+    deathdate: 1888
+    gutenberg_agent_id: '38138'
+    url: http://www.gutenberg.org/2009/agents/38138
+description: Editor's preface.--pt. 1. Life of Burns [by J.F. Smith] (From the 8th
+  ed. of the Ency. brit.)--pt. 2. Life of Burns [by T. Carlyle] (Review of Lockhart's
+  Life of Robert Burns, 1828).
+gutenberg_issued: '2011-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36074'
+  lccn: 01020814
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Burns, Robert, 1759-1796'
+- !lcc 'PR'
+tableOfContents: Editor's preface -- pt. 1. Life of Burns [by J. F. Smith] (From the
+  8th ed. of the Ency. Brit.) -- pt. 2. Life of Burns [by T. Carlyle] (Review of Lockhart's
+  Life of Robert Burns, 1828).
+title: Life of Robert Burns
+url: http://www.gutenberg.org/ebooks/36074
